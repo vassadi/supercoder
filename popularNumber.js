@@ -6,7 +6,7 @@
 /**
  * Gives the most popular number in an array
  * @method ms_popularnumber
- * {@link http://stackoverflow.com/questions/921789/how-to-loop-through-plain-javascript-object-with-objects-as-members}
+ * {@link http://stackoverflow.com/questions/19395257/how-to-count-duplicate-value-in-an-array-in-javascript
  * @return {number/null} Returns the most popular number in an array or null for an invalid array
 */
 function ms_popularnumber (numberArray) {
